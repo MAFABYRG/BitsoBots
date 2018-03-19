@@ -1,0 +1,62 @@
+body{
+
+  font-family: 'Mukta Mahee',Arial, sans-serif;
+
+}
+
+.btn.btn-programacionxyz
+{ 
+  background-color: #FF4081;
+  color: white;
+  margin-left: 5px;
+} 
+ 
+.btn.btn-programacionxyz:hover 
+{
+  background-color: #455a64;
+} 
+ 
+.btn.btn-programacionxyz:active
+{ 
+  background-color:#FF4081;
+} 
+ 
+.nav-link:hover
+{
+  color : white;
+}
+
+.bgheader {
+
+  background-color: #eceeef;
+  border-radius: 0.3rem;
+}
+
+.bgicon
+{
+  
+  opacity: 0.2;
+  filter: grayscale(100%);
+}
+.bgicon:hover
+{
+ 
+  opacity: 1.0;
+  filter: none;
+  
+}
+.h1titulo {
+
+  color:gray;
+}
+
+li
+{
+ 
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font: 200 20px/1.5 Verdana, sans-serif;
+  color: rgb(66, 66, 66);
+  font-variant: small-caps;
+}
